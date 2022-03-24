@@ -1,4 +1,4 @@
-package dev.belueu.masterclass.oop1;
+package dev.belueu.masterclass.oop;
 
 public class Carpet {
     private double cost;

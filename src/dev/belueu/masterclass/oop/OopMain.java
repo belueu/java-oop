@@ -1,8 +1,8 @@
-package dev.belueu.masterclass.oop1;
+package dev.belueu.masterclass.oop;
 
 import java.math.BigDecimal;
 
-public class Main {
+public class OopMain {
     public static void main(String[] args) {
         System.out.println("Hello Main oop1 class!");
 

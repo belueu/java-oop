@@ -1,6 +1,4 @@
-package dev.belueu.masterclass.oop1;
-
-import java.util.Locale;
+package dev.belueu.masterclass.oop;
 
 public class Car {
 
